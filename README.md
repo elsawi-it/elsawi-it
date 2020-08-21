@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋 I am Ahmed!
 
+I am a developer who is passionate about creating new stuff. The few tech that I enjoy working in is Java. I am actively looking for opportunities in Java projects. Recently, I have just started uploading my Java projects as an open-source code in GitHub with 💗
 <!--
 **elsawi-it/elsawi-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
