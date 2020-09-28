@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsawi-it" alt="elsawi-it" /> </p>
 
-- 🔭 I’m currently working on [Web Quiz Engine](bit.ly/3i9eOsf)
+- 🔭 I’m currently working on [Web Quiz Engine](https://github.com/elsawi-it/Web-Quiz-Engine)
 
 - 🌱 I’m currently learning **REST API, embedded database, Frameworks**
 
-- 👨‍💻 All of my projects are available at [bit.ly/3kWYeOb](bit.ly/3kWYeOb)
+- 👨‍💻 All of my projects are available at [bit.ly/3kWYeOb](https://github.com/elsawi-it?tab=repositories)
 
 - ⚡ Fun fact **Life wants a full-time person**
 
