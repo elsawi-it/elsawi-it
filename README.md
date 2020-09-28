@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **REST API, embedded database, Frameworks**
 
-- 👨‍💻 All of my projects are available at [bit.ly/3kWYeOb](https://github.com/elsawi-it?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/elsawi-it?tab=repositories)
 
 - ⚡ Fun fact **Life wants a full-time person**
 
