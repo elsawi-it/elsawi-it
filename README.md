@@ -7,14 +7,13 @@
 
 - 🌱 I’m currently learning **REST API, embedded database, Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/elsawi-it](https://github.com/elsawi-it)
+- 👨‍💻 All of my projects are available at [bit.ly/3kWYeOb](bit.ly/3kWYeOb)
 
 - ⚡ Fun fact **Life wants a full-time person**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-elsawi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ahmed-elsawi/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:12895150" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:12895150" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bit.ly/2s5gkce" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="bit.ly/2s5gkce" height="30" width="40" /></a>
 </p>
 
