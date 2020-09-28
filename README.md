@@ -14,7 +14,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/ahmed-elsawi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmed-elsawi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucjed6lvwzeop0vuamk8prva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjed6lvwzeop0vuamk8prva" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/youtube.com/channel/ucjed6lvwzeop0vuamk8prva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube.com/channel/ucjed6lvwzeop0vuamk8prva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
